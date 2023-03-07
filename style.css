@@ -1,0 +1,23 @@
+.container {
+  background-color: rgba(219, 206, 206, 0.87);
+  padding: 30px;
+}
+.heading {
+  color: rgb(22, 14, 10);
+  font-family: sans-serif;
+  margin: 20px;
+}
+.click {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 15px;
+  margin: 30px;
+  border-color: red;
+}
+.click:hover {
+  background-color: rgb(53, 50, 204);
+}
+.color {
+  font-size: 30px;
+  color: rgb(8, 8, 8);
+}
